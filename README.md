@@ -1,8 +1,8 @@
 # Carolina Domian
 
-Estudiante de la Escuela de Geografía de la [Universidad de Costa Rica](https://www.geografia.fcs.ucr.ac.cr/index.php/es/).\ 
-Carnet C22615\
-Cursando el tercer año de carrera\
+Estudiante de la Escuela de Geografía de la [Universidad de Costa Rica](https://www.geografia.fcs.ucr.ac.cr/index.php/es/).
+Carnet C22615
+Cursando el tercer año de carrera
 
 ![Imagen](geografia.jpg)
 
